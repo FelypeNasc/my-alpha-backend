@@ -1,14 +1,13 @@
 # Profiler Backend
 
-### Backend do projeto em React do Alpha:
-
-### https://github.com/FelypeNasc/my-alpha-profiler
+### Backend do projeto em React do Alpha (link nos pré-requisitos)
 
 #
 
 ## Pré-requisitos:
 
 #### - Node.js
+#### - Frontend do projeto: https://github.com/FelypeNasc/my-alpha-profiler
 
 ## Passo a passo:
 
