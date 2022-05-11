@@ -11,12 +11,7 @@ const app = express();
 const port = 3001;
 
 // middlewares
-app.use(
-  cors({
-    origin: ['https://localhost:3000'],
-    credentials: true,
-  })
-);
+app.use(cors({}));
 app.use(express.json({ limit: '8 mb' }));
 app.use(cookieParser());
 

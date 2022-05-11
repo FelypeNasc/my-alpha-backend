@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import pg from 'pg';
-import mw from '../middlewares/validate-token.js';
+import validateToken from '../middlewares/validate-token.js';
 
 const router = Router();
 const { Client } = pg;
